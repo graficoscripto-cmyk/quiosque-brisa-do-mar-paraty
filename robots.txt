@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://quiosque-brisa-do-mar-paraty.vercel.app/sitemap.xml

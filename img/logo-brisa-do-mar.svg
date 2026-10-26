@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 270" role="img" aria-label="Quiosque Brisa do Mar">
+  <defs>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&amp;display=swap');</style>
+  </defs>
+  <!-- coqueiro -->
+  <path d="M104 160 C 98 120, 92 92, 96 58" fill="none" stroke="#7A4322" stroke-width="9" stroke-linecap="round"/>
+  <g fill="#3E9E3A">
+    <path d="M96 58 C 76 36, 50 34, 34 46 C 56 44, 76 52, 96 62 Z"/>
+    <path d="M96 58 C 92 30, 104 12, 122 8 C 110 22, 104 38, 100 60 Z"/>
+    <path d="M96 58 C 120 38, 146 40, 158 54 C 138 50, 118 54, 98 64 Z"/>
+  </g>
+  <g fill="#9BCB3B">
+    <path d="M96 60 C 70 58, 52 72, 48 92 C 62 76, 78 68, 98 64 Z"/>
+    <path d="M98 60 C 122 60, 140 74, 142 94 C 130 78, 116 70, 98 66 Z"/>
+    <path d="M96 58 C 84 36, 64 26, 50 28 C 70 36, 84 46, 96 62 Z"/>
+  </g>
+  <!-- quiosque de sapê -->
+  <path d="M120 112 L 168 64 Q 172 40 176 64 L 226 112 Q 172 104 120 112 Z" fill="#8A4B22"/>
+  <path d="M132 112 L 132 156 M 214 112 L 214 156" stroke="#6B3A1F" stroke-width="5" stroke-linecap="round"/>
+  <path d="M128 146 H 220" stroke="#6B3A1F" stroke-width="4"/>
+  <path d="M146 146 V 156 M 160 146 V 156 M 174 146 V 156 M 188 146 V 156 M 202 146 V 156" stroke="#6B3A1F" stroke-width="3"/>
+  <!-- onda -->
+  <path d="M226 158 C 246 154, 262 134, 268 112 C 274 92, 296 84, 312 92 C 296 92, 288 104, 292 116 C 296 128, 312 130, 320 122 C 314 142, 286 156, 262 162 Z" fill="#1E5CA8"/>
+  <path d="M300 160 C 316 150, 330 140, 340 128 C 346 140, 360 142, 368 134 C 362 150, 340 160, 316 164 Z" fill="#1E5CA8"/>
+  <!-- placa -->
+  <path d="M30 168 L 372 158 L 368 258 L 36 262 Z" fill="#6B3A1F"/>
+  <path d="M38 174 L 364 165 L 360 250 L 43 254 Z" fill="#F0922B"/>
+  <g font-family="'Kaushan Script', 'Brush Script MT', cursive" fill="#1E5CA8" stroke="#fff" stroke-width="1.6" paint-order="stroke" text-anchor="middle">
+    <text x="204" y="196" font-size="26">Quiosque</text>
+    <text x="202" y="244" font-size="58">Brisa <tspan font-size="26" dy="-6">do</tspan> <tspan dy="6">Mar</tspan></text>
+  </g>
+</svg>
